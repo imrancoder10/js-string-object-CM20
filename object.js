@@ -24,5 +24,9 @@ const subject = {
     exams: {
         name: 'Final Exam',
         marks: 100
+    },
+    accelerate: function(){
+        console.log("fast the car.");
     }
 }
+// subject.accelerate();
