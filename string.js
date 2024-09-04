@@ -9,7 +9,7 @@ const district = `B-Baria`; //string
 // console.log(typeof thana);
 // console.log(thana);
 // ================Array declaration===========================
-// Array is mutable --> you can change the array elements.
+// Array is mutable (পরিবর্তনযোগ্য) --> you can change the array elements.
 
 const numbers = [58, 86, 48, 46, 96];
 // console.log(numbers.length);
@@ -19,7 +19,7 @@ numbers[1] = 500;
 // console.log(numbers);
 
 // =========================string============================
-// string is immutable --> not changeable
+// string is immutable(অপরিবর্তনীয়) --> not changeable 
 
 const capital = 'Dhaka';
 // console.log(capital);
